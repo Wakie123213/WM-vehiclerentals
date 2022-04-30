@@ -5,16 +5,16 @@ You are permitted to modify & re-configure this script. You are not permitted to
 An advanced vehiclerentals script for the QBCore Framework, that is optimized, and can be easily configured to your liking.
 
 # Features
-> Everything is easily configurable including localization!
-> You can have multiple rental locations.
-> You can have multiple rentable vehicles.
-> A player will be charged the rental fee for that certain vehicle after each rental fee interval.
-> If a rental vehicle has been badly damaged during rent, the player will recieve an additional fee charged to their bank account.
-> A player cannot get another rental vehicle, until the previous rental vehicle has been returned.
-> A player can return a rental at any configured location.
-> The player will receive a rental certificate with all the important information.
-> The player can either return or rent a car through the third eye on the ped.
-> Players can either pay for the rental from their cash or bank. If they have no money but still have an outstanding rental vehicle, they will then be charged from their bank account.
+1. Everything is easily configurable including localization!
+2. You can have multiple rental locations.
+3. You can have multiple rentable vehicles.
+4. A player will be charged the rental fee for that certain vehicle after each rental fee interval.
+5. If a rental vehicle has been badly damaged during rent, the player will recieve an additional fee charged to their bank account.
+6. A player cannot get another rental vehicle, until the previous rental vehicle has been returned.
+7. A player can return a rental at any configured location.
+8. The player will receive a rental certificate with all the important information.
+9. The player can either return or rent a car through the third eye on the ped.
+10. Players can either pay for the rental from their cash or bank. If they have no money but still have an outstanding rental vehicle, they will then be charged from their bank account.
 
 # Dependencies 
 1. QBCore
