@@ -36,7 +36,7 @@ While Usage Of The Script: 0.00ms - 0.01 CPU Usage
 3. Paste the following in your QBCore > Shared > Items.Lua (Ex. https://gyazo.com/347bfe6c898555b98b9c7762120a4475)
 
 ``` json
-	['rentcertificate'] 				 = {['name'] = 'rentcertificate', 			  	  	['label'] = 'Rental Certificate', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'certificate.png', 			['unique'] = true, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A Certificate that proves you own a rental vehicle'},
+	['rentcertificate'] = {['name'] = 'rentcertificate', 			  	  	['label'] = 'Rental Certificate', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'certificate.png', 			['unique'] = true, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A Certificate that proves you own a rental vehicle'},
 ```
 
 4. Paste the following in your QB-Inventory (Or Similar) > HTML > JS > App.JS > Line 420 (Ex. https://gyazo.com/30c3d19004e656c436f771b3e9e445d5)
