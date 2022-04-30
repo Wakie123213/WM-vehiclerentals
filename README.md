@@ -2,7 +2,7 @@
 You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications)
 
 # Description
-An advanced vehiclerentals script for the QBCore Framework, that is optimized, and can be easily configured to your liking.
+An advanced vehiclerental script for the QBCore Framework, that is optimized, and can be easily configured to your liking.
 
 # Features
 1. Everything is easily configurable including localization!
