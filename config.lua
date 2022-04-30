@@ -5,9 +5,9 @@
 --]]
 
 Config = {
-    FuelScript = "LegacyFuel", -- Change to Fuel script you are using (For Ex. if you are using lj-fuel)
+    FuelScript = "LegacyFuel", -- Change to your Fuel script you are using (Ex. lj-fuel)
     Rental = {
-        RentalRateInterval = 900, -- Everytime the player gets charged for renting the vehicle. (In Milliseconds) (Default 15 Mins)
+        RentalRateInterval = 900, -- Everytime the player gets charged for renting the vehicle. (In Seconds) (Default 15 Mins)
         RentalVehicleDamagedFee = 5000, -- If the rental vehicle is badly damaged, the player will pay this fee
     },
     Target = {
