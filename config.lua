@@ -40,7 +40,7 @@ Config = {
         },
     },
     Localization = { -- Localization
-        TargetText = "Rent A Vehicle",
+        TargetText = "Rentable Vehicles",
         TargetTextTwo = "Return A Rental",
         ErrorInVehicle = "You cannot view the rentable vehicles, while in a vehicle..",
         ErrorRentalVehicleNotNearby = "Your rental vehicle is not nearby..",
