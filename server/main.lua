@@ -29,6 +29,6 @@ RegisterServerEvent('wm-vehiclerentals:server:removedocument', function(src)
     if Player.Functions.RemoveItem("rentcertificate", 1, false, info) then
         TriggerClientEvent("inventory:client:ItemBox", source, QBCore.Shared.Items["rentcertificate"], "remove")
     else
-        TriggerClientEvent('QBCore:Notify', source, Config.Localization.RentalPapersRemovedError, "error")
+        TriggerClientEvent('QBCore:Notify', source, Config.Localization.RentalPapersRemovedError, "error", 6500)
     end
 end)
