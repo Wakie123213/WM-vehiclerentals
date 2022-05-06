@@ -1,5 +1,5 @@
 # Made By Wakie Modifications (Discord Server: https://discord.gg/G54rz9rcxz)
-You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications)
+**You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications)**
 
 # Description
 An advanced vehiclerentals script for the QBCore Framework, that is optimized, and can be easily configured to your liking.
@@ -25,11 +25,11 @@ An advanced vehiclerentals script for the QBCore Framework, that is optimized, a
 5. Added In a feature to charge players a fee if they return a rental vehicle damaged. (Check Config for more info)
 
 # Dependencies 
-1. QBCore
-2. QB-Target
-3. QB-Inventory Or Similar
-4. LegacyFuel Or Similar (Changeable Through The Config)
-5. QB-Menu
+1. [QBCore](https://github.com/qbcore-framework/qb-core)
+2. [QB-Target](https://github.com/qbcore-framework/qb-target)
+3. [QB-Inventory](https://github.com/qbcore-framework/qb-inventory) (Or Similar)
+4. [LegacyFuel](https://github.com/InZidiuZ/LegacyFuel) (Or Similar, Changeable Through The Config)
+5. [QB-Menu](https://github.com/qbcore-framework/qb-menu)
 
 # Script Preformance
 While Running In The Background: 0.00ms CPU Usage
