@@ -7,7 +7,7 @@
 Config = {
     FuelScript = "LegacyFuel", -- Change to the Fuel script you are using (For Ex. if you are using lj-fuel)
     Rental = {
-        RentalRateInterval = 900, -- Everytime the player gets charged for renting the vehicle. (In Milliseconds) (Default 15 Mins)
+        RentalRateInterval = 900, -- Everytime the player gets charged for renting the vehicle. (In Seconds) (Default 15 Mins)
         RentalVehicleRtrnDmgFee = 250, -- The fee a player has to pay if ChrgPlrFeeIfRtrnDmged is set to true. 
         ChrgPlrFeeIfRtrnDmged = true, -- If a player returns a damaged vehicle they will be charged the RentalVehicleRtrnDmgFee. (Set to false if you don't want them charged for returning a damaged vehicle)
         RentalVehicleDamagedFee = 5000, -- If the rental vehicle is destroyed, the player will pay this fee
