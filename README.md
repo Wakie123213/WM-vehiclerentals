@@ -1,4 +1,4 @@
-# Made By Wakie Modifications (Discord Server: https://discord.gg/CY9tg5dAPP)
+# Made By Wakie Modifications (Discord Server: https://discord.gg/wakiemods)
 **You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications)**
 
 # Description
